@@ -1,2 +1,6 @@
 # phoenix
 sample phoenix elixir UI &amp; API project for testing deploys
+
+Added to...
+
+Jim is a...
